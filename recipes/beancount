@@ -1,0 +1,1 @@
+(beancount :fetcher github :repo "beancount/beancount" :files ("editors/emacs/beancount.el"))
